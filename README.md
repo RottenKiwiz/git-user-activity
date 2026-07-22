@@ -7,4 +7,3 @@ Returning a Github Users activity
 3. Run main.java
 4. Enter a git username when prompted
 
-https://roadmap.sh/projects/github-user-activity
