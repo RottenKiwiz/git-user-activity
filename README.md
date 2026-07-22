@@ -1,5 +1,5 @@
 # git-user-activity
-Returning a Github Users activity
+Returning a GitHub user's activity
 
 ## How to run:
 1. Make sure Java version 21 is installed
